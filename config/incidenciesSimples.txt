@@ -1,0 +1,1 @@
+Sintaxis incorrecta cerca de la palabra clave 'LIKE'.

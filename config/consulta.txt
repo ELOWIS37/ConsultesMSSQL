@@ -1,0 +1,3 @@
+SELECT cod_articulo, marca FROM articulos WHERE cod_articulo LIKE 'A%';
+SELECT cod_articulo FROM articulos WHERE cod_articulo LIKE 'B%';
+SELECT cod_articulo FROM articulos WHERE cod_articulo LIKE 'Z%';
